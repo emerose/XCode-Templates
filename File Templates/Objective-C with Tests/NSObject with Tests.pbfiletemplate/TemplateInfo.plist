@@ -1,0 +1,8 @@
+{
+	MainTemplateFile = "class.m";
+	"CounterpartTemplateFile" = "class.h";
+	Description = "An Objective-C class file, with tests based on GH-Unit and an optional header which includes the <Foundation/Foundation.h> header.";
+	"ImplicitCounterpartTemplateFiles" = { 
+    "classTest.m" = "%@Test.m"; 
+  };
+}
