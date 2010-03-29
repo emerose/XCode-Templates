@@ -3,8 +3,8 @@
 This project contains some simple templates for XCode.  They differ from the
 Apple-distributed ones primarily in that:
 
-- they include unit test templates based on [GHUnit][http://github.com/gabriel/gh-unit]
-- they use [Doxygen][http://www.stack.nl/~dimitri/doxygen/]-formatted comments
+- they include unit test templates based on [GHUnit](http://github.com/gabriel/gh-unit)
+- they use [Doxygen](http://www.stack.nl/~dimitri/doxygen/)-formatted comments
 
 ## Installation
 
