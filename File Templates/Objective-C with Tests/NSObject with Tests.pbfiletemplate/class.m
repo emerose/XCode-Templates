@@ -13,4 +13,16 @@
 
 @implementation «FILEBASENAMEASIDENTIFIER»
 
+- (id)init {
+  self = [super init];
+  if (self) {
+    // do stuff.
+  }
+  return self;
+}
+
+- (void)dealloc {
+  [super dealloc];
+}
+
 @end
